@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/.idea/Python2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/01_HomeWork.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/decode.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/dict_to_bytes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/time_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/01_Sockets/time_server.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01_Sockets/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__init__.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GeekBrains.iml" afterPath="$PROJECT_DIR$/.idea/GeekBrains.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="New project 2.0" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +16,8 @@
           <file leaf-file-name="decode.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/decode.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <state relative-caret-position="204">
+                  <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
                   <folding />
                 </state>
               </provider>
@@ -116,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="165" />
     <option name="y" value="396" />
     <option name="width" value="1400" />
@@ -321,13 +299,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527775453544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New project 2.0">
+      <created>1527783530451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527783530451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -352,7 +338,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project" />
-    <option name="LAST_COMMIT_MESSAGE" value="New project" />
+    <MESSAGE value="New project 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="New project 2.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -529,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/decode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding />
         </state>
       </provider>
