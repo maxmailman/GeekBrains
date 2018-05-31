@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Python2" />
+    <orderEntry type="module" module-name="Python2" />
+    <orderEntry type="module" module-name="01_Sockets" />
+    <orderEntry type="module" module-name="01_HomeWork" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

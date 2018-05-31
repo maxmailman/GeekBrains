@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Python2/01_HomeWork/.idea/01_HomeWork.iml" filepath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/01_HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" filepath="$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GeekBrains.iml" filepath="$PROJECT_DIR$/.idea/GeekBrains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/.idea/Python2.iml" filepath="$PROJECT_DIR$/Python2/.idea/Python2.iml" />
     </modules>
   </component>
 </project>
