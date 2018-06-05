@@ -1,4 +1,8 @@
+from functools import wraps
+
+
 def a_new_decorator(a_func):
+    @wraps(a_func)
     def wrapTheFunction():
         print('бла бла перед исполнением a_func()')
 
@@ -12,6 +16,7 @@ def a_new_decorator(a_func):
 @a_new_decorator
 def a_function_requiring_decoration():
     print('Я функция, которая требует декораци')
+
 
 print(a_function_requiring_decoration.__name__)
 
