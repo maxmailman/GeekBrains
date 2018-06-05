@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/decorator_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/decorator_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/example_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/example_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GeekBrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GeekBrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/example_client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python2/02_Socket_select/example_subprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/.idea/Python2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/.idea/Python2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/01_HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/01_HomeWork/.idea/01_HomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/02_HomeWork/.idea/02_HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/02_HomeWork/.idea/02_HomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/02_HomeWork/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/02_Socket_select/decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/02_Socket_select/.idea/02_Socket_select.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/02_Socket_select/.idea/02_Socket_select.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,29 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example_server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example_client.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +56,7 @@
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/server_example.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/client_example.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/example_client.py" />
+        <option value="$PROJECT_DIR$/Python2/02_Socket_select/example_subprocess.py" />
       </list>
     </option>
   </component>
@@ -136,15 +104,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\Python2\02_Socket_select" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GeekBrains\Python2\02_Socket_select" />
       <recent name="C:\GeekBrains\Python2\01_HomeWork" />
       <recent name="C:\GeekBrains\Python2\01_Sockets" />
       <recent name="C:\GeekBrains" />
       <recent name="C:\GeekBrains\prp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GeekBrains\Python2\02_Socket_select" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,43 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_client">
-    <configuration name="decorator_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="02_Socket_select" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/02_Socket_select" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/02_Socket_select/decorator_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="decorator_loging" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="02_Socket_select" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/02_Socket_select" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\GeekBrains\Python2\02_Socket_select\decorator_log.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.example_subprocess">
     <configuration name="example_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="02_Socket_select" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,6 +146,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="example_client2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_Socket_select" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/02_Socket_select" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/02_Socket_select/example_client2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="example_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="02_Socket_select" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,6 +177,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/02_Socket_select/example_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="example_subprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_Socket_select" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/02_Socket_select" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/02_Socket_select/example_subprocess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,19 +219,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.decorator_loging" />
-      <item itemvalue="Python.decorator_class" />
       <item itemvalue="Python.server_example" />
       <item itemvalue="Python.example_server" />
       <item itemvalue="Python.example_client" />
+      <item itemvalue="Python.example_client2" />
+      <item itemvalue="Python.example_subprocess" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example_client" />
+        <item itemvalue="Python.example_subprocess" />
         <item itemvalue="Python.example_server" />
+        <item itemvalue="Python.example_client2" />
+        <item itemvalue="Python.example_client" />
         <item itemvalue="Python.server_example" />
-        <item itemvalue="Python.decorator_class" />
-        <item itemvalue="Python.decorator_loging" />
       </list>
     </recent_temporary>
   </component>
@@ -306,20 +274,26 @@
       <option name="project" value="LOCAL" />
       <updated>1528114941347</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Server - client. select">
+      <created>1528184612963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528184612963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1212" y="105" width="1109" height="855" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31198537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31198537" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32896462" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896462" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3027027" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3027027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -340,23 +314,10 @@
     <MESSAGE value="New project" />
     <MESSAGE value="New project 2.0" />
     <MESSAGE value="Home Work 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home Work 2" />
+    <MESSAGE value="Server - client. select" />
+    <option name="LAST_COMMIT_MESSAGE" value="Server - client. select" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/decorator_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/out.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
@@ -539,20 +500,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_server.py">
+    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_client2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_subprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
