@@ -2,6 +2,8 @@ import queue
 import select
 from socket import socket, AF_INET, SOCK_STREAM
 
+import log_config
+
 server = socket(AF_INET, SOCK_STREAM)
 server.setblocking(0)  # Неблокирующийся сокет
 server.bind(('localhost', 9999))
@@ -34,6 +36,8 @@ while sockets:
         else:
             try:
                 data = s.recv(1024)  # Читаем без блокировки
+                log_config.log
+
             except:
                 close_connection(s)  # В случае ошибки закрываем этот сокет и удаляем
             else:  # Если ошибка не произошла
