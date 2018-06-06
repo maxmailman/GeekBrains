@@ -1,3 +1,4 @@
+__auth__ = 'Рыгалов М.А.'
 import queue
 import select
 from socket import socket, AF_INET, SOCK_STREAM
