@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" filepath="$PROJECT_DIR$/Python2/01_Sockets/.idea/01_Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/02_HomeWork/.idea/02_HomeWork.iml" filepath="$PROJECT_DIR$/Python2/02_HomeWork/.idea/02_HomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/02_Socket_select/.idea/02_Socket_select.iml" filepath="$PROJECT_DIR$/Python2/02_Socket_select/.idea/02_Socket_select.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/03_OOP/.idea/03_OOP.iml" filepath="$PROJECT_DIR$/Python2/03_OOP/.idea/03_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GeekBrains.iml" filepath="$PROJECT_DIR$/.idea/GeekBrains.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/.idea/Python2.iml" filepath="$PROJECT_DIR$/Python2/.idea/Python2.iml" />
     </modules>
