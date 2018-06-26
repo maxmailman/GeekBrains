@@ -15,7 +15,7 @@ class User(Base):
         self.Name = name
 
     def __repr__(self):
-        return "<User('%s')>" % (self.Name)
+        return self.Name
 
 
 class Contact(Base):
@@ -29,7 +29,7 @@ class Contact(Base):
         self.User_2 = user_2
 
     def __repr__(self):
-        return
+        return '{} друг {}'.format(self.User_1, self.User_2)
 
 
 engine = create_engine('sqlite:///mydb.sqlite', echo=False, pool_recycle=7200)
@@ -42,4 +42,15 @@ print('Session: ', session)
 
 session.add_all([User('Max'), User('Liza'), User('Misha'), User('Leo'), User('Alexandr')])
 session.add_all([Contact(1, 2), Contact(2, 1), Contact(3, 1), Contact(1, 5)])
+
+print(' ---- Все доступные пользователи ----')
+q_users = session.query(User).all()
+print(q_users)
+
+print(' ---- Все контакты ----')
+q_contacts = session.query(Contact).all()
+print(q_contacts)
+
 session.commit()
+
+
