@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/04_HomeWork/.idea/04_HomeWork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/04_HomeWork/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/04_HomeWork/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python2/04_HomeWork/base_declarative.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GeekBrains.iml" afterPath="$PROJECT_DIR$/.idea/GeekBrains.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative3.py" afterPath="$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base_declarative3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,6 +83,8 @@
         <option value="$PROJECT_DIR$/Python2/03_OOP/example_descriptor.py" />
         <option value="$PROJECT_DIR$/Python2/03_OOP/des.py" />
         <option value="$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative3.py" />
+        <option value="$PROJECT_DIR$/Python2/04_HomeWork/base_declarative.py" />
+        <option value="$PROJECT_DIR$/Python2/04_HomeWork/ex.py" />
       </list>
     </option>
   </component>
@@ -136,7 +130,7 @@
               <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
               <item name="Python2" type="462c0819:PsiDirectoryNode" />
-              <item name="04_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
+              <item name="04_HomeWork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,6 +151,7 @@
       <recent name="C:\GeekBrains\prp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\Python2\04_HomeWork" />
       <recent name="C:\GeekBrains\Python2\04_SQLAlchemy" />
       <recent name="C:\GeekBrains\Python2\02_HomeWork" />
       <recent name="C:\GeekBrains\Python2\02_Socket_select" />
@@ -174,37 +169,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.base_declarative3">
-    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex">
+    <configuration name="base_declarative" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/04_SQLAlchemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/04_HomeWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="04_SQLAlchemy" />
-      <option name="SCRIPT_NAME" value="C:\GeekBrains\Python2\04_SQLAlchemy\base_classic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="base_classic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/04_SQLAlchemy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="04_SQLAlchemy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/04_SQLAlchemy/base_classic.py" />
+      <module name="04_HomeWork" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/04_HomeWork/base_declarative.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,6 +221,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/04_HomeWork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="04_HomeWork" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/04_HomeWork/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="example_descriptor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,19 +256,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.base" />
-      <item index="1" class="java.lang.String" itemvalue="Python.base_classic" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example_descriptor" />
-      <item index="3" class="java.lang.String" itemvalue="Python.base_declarative2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.base_declarative3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.example_descriptor" />
+      <item index="1" class="java.lang.String" itemvalue="Python.base_declarative2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.base_declarative3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.base_declarative" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.base_declarative3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.base_declarative2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.example_descriptor" />
-        <item index="3" class="java.lang.String" itemvalue="Python.base_classic" />
-        <item index="4" class="java.lang.String" itemvalue="Python.base" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.base_declarative" />
+        <item index="2" class="java.lang.String" itemvalue="Python.base_declarative3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.base_declarative2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example_descriptor" />
       </list>
     </recent_temporary>
   </component>
@@ -340,14 +335,20 @@
       <option name="project" value="LOCAL" />
       <updated>1530015642182</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sqlAlchemy 2 таблицы">
+      <created>1530020963417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530020963417</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18741809" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -386,8 +387,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sockets/one.py" />
-    <entry file="file://$PROJECT_DIR$/sockets/two.py" />
     <entry file="file://$PROJECT_DIR$/sockets/__init__.py" />
     <entry file="file://$PROJECT_DIR$/__init__.py" />
     <entry file="file://$PROJECT_DIR$/sockets/one.py" />
@@ -414,20 +413,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/primer.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/decode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -500,13 +485,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/client_recv.py" />
     <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/server.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/log_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/03_OOP/example_descriptor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -528,27 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_send.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/super_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -561,11 +518,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        <state relative-caret-position="-6">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/log_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/super_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/04_HomeWork/base_declarative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#26#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/04_HomeWork/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
