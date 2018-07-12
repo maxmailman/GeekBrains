@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Python2/03_OOP/.idea/03_OOP.iml" filepath="$PROJECT_DIR$/Python2/03_OOP/.idea/03_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/04_HomeWork/.idea/04_HomeWork.iml" filepath="$PROJECT_DIR$/Python2/04_HomeWork/.idea/04_HomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/04_SQLAlchemy/.idea/04_SQLAlchemy.iml" filepath="$PROJECT_DIR$/Python2/04_SQLAlchemy/.idea/04_SQLAlchemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/.idea/05_PyQt5_Prohorenko.iml" filepath="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/.idea/05_PyQt5_Prohorenko.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GeekBrains.iml" filepath="$PROJECT_DIR$/.idea/GeekBrains.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python2/.idea/Python2.iml" filepath="$PROJECT_DIR$/Python2/.idea/Python2.iml" />
     </modules>
