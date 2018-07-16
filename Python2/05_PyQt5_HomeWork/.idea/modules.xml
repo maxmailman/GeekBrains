@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/05_PyQt5_HomeWork.iml" filepath="$PROJECT_DIR$/.idea/05_PyQt5_HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/GeekBrains.iml" filepath="$PROJECT_DIR$/../../.idea/GeekBrains.iml" />
     </modules>
   </component>
 </project>
