@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="listing20.13.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/01_HomeWork/server.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/server.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/foo.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/kiki.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/closures.py" />
@@ -83,6 +96,8 @@
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/ui_myform.py" />
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/ui_myformTest.py" />
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/ui_myformOOPStile.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.12.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.13.py" />
       </list>
     </option>
   </component>
@@ -157,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ui_myformOOPStile">
-    <configuration name="myform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.listing20.13">
+    <configuration name="listing20.12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_PyQt5_Prohorenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,13 +185,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/myform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="oop_myform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listing20.13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="05_PyQt5_Prohorenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/oop_myform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +264,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.myform" />
-      <item itemvalue="Python.oop_myform" />
       <item itemvalue="Python.ui_myform" />
       <item itemvalue="Python.ui_myformTest" />
       <item itemvalue="Python.ui_myformOOPStile" />
+      <item itemvalue="Python.listing20.12" />
+      <item itemvalue="Python.listing20.13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listing20.13" />
+        <item itemvalue="Python.listing20.12" />
         <item itemvalue="Python.ui_myformOOPStile" />
         <item itemvalue="Python.ui_myformTest" />
         <item itemvalue="Python.ui_myform" />
-        <item itemvalue="Python.oop_myform" />
-        <item itemvalue="Python.myform" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531729999470</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="PyQt5">
+      <created>1531730415272</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531730415272</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,7 +393,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10322108" side_tool="true" weight="0.21452145" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896462" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89677894" weight="0.22277227" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89677894" visible="true" weight="0.22277227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -407,16 +429,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_client2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/kiki.py" />
     <entry file="file://$PROJECT_DIR$/Python2/01_Sockets/time_server.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -672,6 +684,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/listing20.13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
