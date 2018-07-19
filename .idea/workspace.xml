@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/1.Работа с сетью, сокеты. Тестирование кода.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GeekBrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GeekBrains.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/mydb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/mydb.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +25,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pyqt5HomeWork.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="splitter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="442">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_testsplitter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="e#18#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_AssertTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -44,15 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/decorator_class.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/server_example.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/client_example.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/example_client.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/example_subprocess.py" />
-        <option value="$PROJECT_DIR$/Python2/02_Socket_select/example_server.py" />
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/example_client2.py" />
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/client_plus.py" />
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/client.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/server2.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/server.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/super_server.py" />
@@ -93,8 +116,17 @@
         <option value="$PROJECT_DIR$/Python2/04_SQLAlchemy/pqt5view26.3.py" />
         <option value="$PROJECT_DIR$/Python2/04_SQLAlchemy/pyqt5HomeWork.py" />
         <option value="$PROJECT_DIR$/Python2/04_SQLAlchemy/pqt5HomeWork2.py" />
-        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" />
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork22.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/02_ClientTime.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_TestAssert.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" />
       </list>
     </option>
   </component>
@@ -122,13 +154,20 @@
             <path>
               <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
               <item name="Python2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
               <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
               <item name="Python2" type="462c0819:PsiDirectoryNode" />
-              <item name="05_PyQt5_HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Работа с сетью, сокеты. Тестирование кода" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,18 +182,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\MyProject\Python2\1.Работа с сетью, сокеты. Тестирование кода" />
       <recent name="C:\GeekBrains\Python2\05_PyQt5_HomeWork" />
       <recent name="C:\GeekBrains\Python2\05_PyQt5_Prohorenko" />
       <recent name="C:\GeekBrains\Python2\05_PyQt5" />
       <recent name="C:\GeekBrains\Python2" />
-      <recent name="C:\GeekBrains\Python2\04_HomeWork" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\MyProject\Python2\1.Работа с сетью, сокеты. Тестирование кода" />
       <recent name="C:\GeekBrains\Python2\05_PyQt5\.idea" />
       <recent name="C:\GeekBrains\Python2\02_Socket_select" />
       <recent name="C:\GeekBrains\Python2\01_HomeWork" />
       <recent name="C:\GeekBrains\Python2\01_Sockets" />
-      <recent name="C:\GeekBrains" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,111 +208,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyqt5HomeWork (1)">
-    <configuration name="MyWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="05_PyQt5_Prohorenko" />
+  <component name="RunManager" selected="Python.05_AssertTest">
+    <configuration name="01_ServerTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GeekBrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/MyWindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="oop_myform" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="05_PyQt5_Prohorenko" />
+    <configuration name="02_ClientTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GeekBrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/oop_myform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pqt5HomeWork2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="05_PyQt5_HomeWork" />
+    <configuration name="03_splitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GeekBrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pyqt5HomeWork (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="05_PyQt5_HomeWork" />
+    <configuration name="04_testsplitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ui_myformOOPStile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="05_PyQt5_Prohorenko" />
+    <configuration name="05_AssertTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/ui_myformOOPStile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.pyqt5HomeWork (1)" />
-      <item itemvalue="Python.pqt5HomeWork2 (1)" />
-      <item itemvalue="Python.MyWindow" />
-      <item itemvalue="Python.oop_myform" />
-      <item itemvalue="Python.ui_myformOOPStile" />
+      <item itemvalue="Python.01_ServerTime" />
+      <item itemvalue="Python.02_ClientTime" />
+      <item itemvalue="Python.03_splitter" />
+      <item itemvalue="Python.04_testsplitter" />
+      <item itemvalue="Python.05_AssertTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pyqt5HomeWork (1)" />
-        <item itemvalue="Python.pqt5HomeWork2 (1)" />
-        <item itemvalue="Python.ui_myformOOPStile" />
-        <item itemvalue="Python.oop_myform" />
-        <item itemvalue="Python.MyWindow" />
+        <item itemvalue="Python.05_AssertTest" />
+        <item itemvalue="Python.04_testsplitter" />
+        <item itemvalue="Python.03_splitter" />
+        <item itemvalue="Python.02_ClientTime" />
+        <item itemvalue="Python.01_ServerTime" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531759008908</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="PyQt5 Home Work">
+      <created>1531990480491</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1531990480492</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -405,7 +451,7 @@
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10322108" side_tool="true" weight="0.21452145" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32896462" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32837406" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89677894" visible="true" weight="0.22210415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -442,65 +488,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/client_send.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/02_Socket_select/example_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/client_recv.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/server.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/03_OOP/example_descriptor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/03_OOP/des.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/03_OOP/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/04_SQLAlchemy/base_declarative2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/01_HomeWork/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_send.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_write.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -694,13 +681,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/MyWindow.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -723,20 +704,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="238">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/02_ClientTime.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#27#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py">
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1/splitter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1/04_testsplitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#18#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

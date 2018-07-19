@@ -21,8 +21,8 @@ stm.setEditStrategy(QtSql.QSqlTableModel.OnManualSubmit)
 stm.setTable('Contacts')
 # stm.setSort(1, QtCore.Qt.AscendingOrder)
 
-stm.setRelation(1, QtSql.QSqlRelation('Users', 'UserId', 'Name'))
-stm.setRelation(2, QtSql.QSqlRelation('Users', 'UserId', 'Name'))
+# stm.setRelation(1, QtSql.QSqlRelation('Users', 'UserId', 'Name'))
+# stm.setRelation(2, QtSql.QSqlRelation('Users', 'UserId', 'Name'))
 stm.select()
 stm.setHeaderData(1, QtCore.Qt.Horizontal, 'Пользователь')
 stm.dataChanged.connect(stm.submitAll) #?

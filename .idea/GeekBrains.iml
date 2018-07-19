@@ -16,6 +16,8 @@
     <orderEntry type="module" module-name="04_HomeWork" />
     <orderEntry type="module" module-name="05_PyQt5_Prohorenko" />
     <orderEntry type="module" module-name="05_PyQt5_HomeWork" />
+    <orderEntry type="module" module-name="1.Работа с сетью, сокеты. Тестирование кода." />
+    <orderEntry type="module" module-name="1.Работа с сетью, сокеты. Тестирование кода" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
