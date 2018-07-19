@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/1.Работа с сетью, сокеты. Тестирование кода.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GeekBrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GeekBrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/mydb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/mydb.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,38 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="splitter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04_testsplitter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="e#18#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05_AssertTest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/server2.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/server.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/super_server.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/example_server.py" />
@@ -123,10 +80,11 @@
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/02_ClientTime.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" />
-        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_TestAssert.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" />
       </list>
     </option>
   </component>
@@ -208,62 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05_AssertTest">
-    <configuration name="01_ServerTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GeekBrains" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="02_ClientTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GeekBrains" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="03_splitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GeekBrains" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="04_testsplitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction">
+    <configuration name="splitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,44 +179,78 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/04_testsplitter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="05_AssertTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testdelimiter" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction.testdelimiter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction.testsimpestring&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction.testtypeconvert&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.01_ServerTime" />
-      <item itemvalue="Python.02_ClientTime" />
-      <item itemvalue="Python.03_splitter" />
-      <item itemvalue="Python.04_testsplitter" />
-      <item itemvalue="Python.05_AssertTest" />
+      <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testdelimiter" />
+      <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" />
+      <item itemvalue="Python.splitter" />
+      <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction" />
+      <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_AssertTest" />
-        <item itemvalue="Python.04_testsplitter" />
-        <item itemvalue="Python.03_splitter" />
-        <item itemvalue="Python.02_ClientTime" />
-        <item itemvalue="Python.01_ServerTime" />
+        <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction" />
+        <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" />
+        <item itemvalue="Python.splitter" />
+        <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testdelimiter" />
+        <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" />
       </list>
     </recent_temporary>
   </component>
@@ -439,12 +377,50 @@
       <option name="project" value="LOCAL" />
       <updated>1531990480492</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="MyProject">
+      <created>1532015947703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532015947703</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testdelimiter - 2018.07.19 at 23h 34m 19s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testdelimiter" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testsimpestring - 2018.07.19 at 23h 34m 45s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testtypeconvert - 2018.07.19 at 23h 34m 49s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testdelimiter - 2018.07.19 at 23h 34m 53s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testdelimiter" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testtypeconvert - 2018.07.19 at 23h 34m 57s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testtypeconvert - 2018.07.19 at 23h 35m 04s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testtypeconvert - 2018.07.19 at 23h 37m 28s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction - 2018.07.19 at 23h 38m 08s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction_testtypeconvert - 2018.07.19 at 23h 38m 54s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_06_TestSplitterUnittest_TestSplitFuction - 2018.07.19 at 23h 39m 02s.xml">
+      <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -453,7 +429,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10322108" side_tool="true" weight="0.21452145" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32837406" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89677894" visible="true" weight="0.22210415" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89677894" weight="0.22210415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32837406" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -480,7 +456,8 @@
     <MESSAGE value="sqlAlchemy 2 таблицы" />
     <MESSAGE value="PyQt5" />
     <MESSAGE value="PyQt5 Home Work" />
-    <option name="LAST_COMMIT_MESSAGE" value="PyQt5 Home Work" />
+    <MESSAGE value="MyProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyProject" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -488,20 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/example_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/log_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/super_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -772,10 +735,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py">
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -789,10 +759,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py">
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="391">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
