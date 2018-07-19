@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/Закончил" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Закончил" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/Закончил">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/server.py" />
         <option value="$PROJECT_DIR$/Python2/02_Socket_select/super_server.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/example_server.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/example_client.py" />
@@ -85,6 +93,7 @@
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/05_AssertTest.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/splitter.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/Закончил" />
       </list>
     </option>
   </component>
@@ -136,7 +145,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -384,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532015947703</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="MyProject">
+      <created>1532018747146</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1532018747146</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -421,8 +437,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -465,13 +482,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python2/02_HomeWork/super_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/04_HomeWork/base_declarative.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -776,6 +786,13 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/Закончил">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
