@@ -5,7 +5,9 @@ def addRecord():
     stm.insertRow(stm.rowCount())
 
 def delRecord():
-    stm.removeRow(tv.currentIndex().row)
+    print('До ремув')
+    stm.removeRow(tv.currentIndex().row())
+    print('До селекта')
     stm.select()
 
 app = QtWidgets.QApplication(sys.argv)
