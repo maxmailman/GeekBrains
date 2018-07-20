@@ -5,16 +5,16 @@ import pytest
 
 
 @pytest.fixture()
-def recourse_setup(request):
+def resource_setup(request):
     print('Подготовка ресурсов')
 
     def resource_teardown():  # Функция сброса окружения
         print('Освобождение ресурсов')
 
-    request.addfinalizer(resource_teardown())  # Добавление финализатора
+    request.addfinalizer(resource_teardown)  # Добавление финализатора
 
 
-def test_1_that_needs_resource(recource_setup):
+def test_1_that_needs_resource(resource_setup):
     print('test_1 - требуются ресурсы')
 
 
