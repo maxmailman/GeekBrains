@@ -1,8 +1,11 @@
+"""
+python -m pytest -s 09_FixturesExtended.py
+"""
 import pytest
 
 
 @pytest.fixture()
-def recource_setup(request):
+def recourse_setup(request):
     print('Подготовка ресурсов')
 
     def resource_teardown():  # Функция сброса окружения
