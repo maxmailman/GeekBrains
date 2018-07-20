@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/07_Pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/1.Работа с сетью, сокеты. Тестирование кода.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/1.Работа с сетью, сокеты. Тестирование кода.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="08_Ficstures.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py">
+      <file leaf-file-name="09_FixturesExtended.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06_TestSplitterUnittest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -57,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/02_HomeWork/example_send.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/log_config.py" />
         <option value="$PROJECT_DIR$/Python2/02_HomeWork/super_server.py" />
         <option value="$PROJECT_DIR$/Python2/03_OOP/example.py" />
@@ -108,6 +94,7 @@
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.pytest_cache/08_Ficsture.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficsture.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py" />
+        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py" />
       </list>
     </option>
   </component>
@@ -189,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.08_Ficstures">
+  <component name="RunManager" selected="Python.09_FixturesExtended">
     <configuration name="07_Pytest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,6 +213,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="09_FixturesExtended" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="1.Работа с сетью, сокеты. Тестирование кода" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,33 +257,20 @@
       <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction.testsimpestring&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="1.Работа с сетью, сокеты. Тестирование кода" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;06_TestSplitterUnittest.TestSplitFuction.testtypeconvert&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" />
       <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction" />
       <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" />
       <item itemvalue="Python.07_Pytest" />
       <item itemvalue="Python.08_Ficstures" />
+      <item itemvalue="Python.09_FixturesExtended" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.09_FixturesExtended" />
         <item itemvalue="Python.08_Ficstures" />
         <item itemvalue="Python.07_Pytest" />
         <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testsimpestring" />
         <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction" />
-        <item itemvalue="Python tests.Unittests for 06_TestSplitterUnittest.TestSplitFuction.testtypeconvert" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532019655121</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="MyProject">
+      <created>1532093249387</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1532093249387</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -472,16 +471,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25208333" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.32837406" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.106770836" side_tool="true" visible="true" weight="0.22210415" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32837406" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89427084" weight="0.22210415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8932292" visible="true" weight="0.22210415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49791667" visible="true" weight="0.32837406" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6901042" weight="0.32837406" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39744952" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,14 +514,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/PyQt5/uic/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5/tk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5/load3.py" />
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5/testqt.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -810,10 +801,24 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/pytest.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/colorama/ansitowin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        <state relative-caret-position="208">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>

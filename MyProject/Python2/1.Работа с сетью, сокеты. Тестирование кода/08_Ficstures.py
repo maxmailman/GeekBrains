@@ -1,30 +1,43 @@
+"""
+Запускаем python -m pytest -s 08_Ficstures.py
+флаг -s дает возможность увидеть все сообщения выводимые printом
+"""
 import pytest
+
 
 def setup():
     print('01. setub Установка окружения по умолчанию в модуле')
 
+
 def teardown():
     print('02. teardown Сброс окружения по умолчанию в модуле')
+
 
 def setup_module(module):
     print('03. setup Установка окружения на уровне модуля')
 
+
 def teardown_module(module):
     print('04. teardown Сброс окружения на уровне модуля')
+
 
 def setup_function(function):
     print('05. setub Установка окружения на уровне функции')
 
+
 def teardown_function(function):
     print('06. teardown Сброс окружения на уровне функции')
 
+
 def test_number_3_4():
     print('07. >> test 3*4')
-    assert 3*4 == 12
+    assert 3 * 4 == 12
+
 
 def test_strings_a_3():
     print('08. >> test a*3')
-    assert 'a'*3 == 'aaa'
+    assert 'a' * 3 == 'aaa'
+
 
 class TestUM:
     def setup(self):
@@ -49,4 +62,4 @@ class TestUM:
 
     def test_number_5_6(self):
         print('15. >> test b*2')
-        assert 'b'*2 == 'bb'
+        assert 'b' * 2 == 'bb'
