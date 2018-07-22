@@ -15,6 +15,7 @@ print("[ Server Started ]")
 while not quit:
     try:
         data, addr = s.recvfrom(1024)
+        print(addr)
 
         if addr not in clients:
             clients.append(addr)

@@ -1,7 +1,6 @@
 import socket
 import threading
 import time
-import os
 
 key = 8194
 
@@ -37,19 +36,21 @@ def receving(name, sock):
 
 host = socket.gethostbyname(socket.gethostname())
 port = 0
-
 server = (host, 7777)
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.bind((host, port))
 s.setblocking(0)
 
+#####################################################################
+
+alias = input("Name: ")
+
 rT = threading.Thread(target=receving, args=("RecvThread", s))
 rT.start()
 
 while shutdown == False:
-    alias = None
-    if join == False and alias != None:
+    if join == False:
         s.sendto(("[" + alias + "] => join chat ").encode("utf-8"), server)
         join = True
     else:
