@@ -12,8 +12,7 @@ class Thread1(QtCore.QThread):
         QtCore.QThread.__init__(self, parent)
 
     def run(self):
-        self.count = 'Привет, я поток1'
-        self.s1.emit(self.count)
+        self.s1.emit('Привет, я поток 1')
 
 
 class Window(QtWidgets.QWidget):
@@ -26,17 +25,14 @@ class Window(QtWidgets.QWidget):
         self.ui.textEdit_2.setDisabled(True)
         self.ui.pushButton.setDisabled(True)
         self.ui.listView_2.setDisabled(True)
+
         self.ui.thread1 = Thread1()
-        self.ui.thread1.started.connect(self.on_clicked_pushButLogin)
-        self.ui.thread1.s1.connect(self.on_clicked_pushButton, QtCore.Qt.QueuedConnection)
+        self.ui.thread1.start()
 
         self.ui.pushButLogin.clicked.connect(self.on_clicked_pushButLogin)
-        self.ui.pushButLogin.clicked.connect(self.ui.thread1.run)
+        self.ui.pushButton.clicked.connect(self.ui.thread1.run)
 
-    def on_clicked_pushButton(self, i):
-        print('Отправить в текст')
-        self.ui.textEdit.append(i)
-        self.ui.textEdit_2.setText('')
+        self.ui.thread1.s1.connect(self.on_clicked_pushButton, QtCore.Qt.QueuedConnection)
 
     def on_clicked_pushButLogin(self):
         # print('Авторизация')
@@ -47,6 +43,11 @@ class Window(QtWidgets.QWidget):
             self.ui.textEdit_2.setDisabled(False)
             self.ui.pushButton.setDisabled(False)
             self.ui.listView_2.setDisabled(False)
+
+    def on_clicked_pushButton(self, i):
+        print('Отправить в текст')
+        self.ui.textEdit.append(i)
+        self.ui.textEdit_2.setText('')
 
 
 if __name__ == '__main__':
