@@ -13,6 +13,8 @@ class Thread1(QtCore.QThread):
 
     def run(self):
         self.s1.emit('Привет, я поток 1')
+        # self.sleep(1)
+        # window.ui.textEdit.append('Привет, я поток 1')
 
 
 class Window(QtWidgets.QWidget):
