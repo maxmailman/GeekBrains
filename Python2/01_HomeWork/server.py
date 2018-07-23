@@ -9,7 +9,7 @@ s.listen(10)
 
 while True:
     client, addr = s.accept()
-    print(f'Присоединение клиента {addr}')
+    print('Присоединение клиента ' + addr)
 
     a = Decode(client.recv(1024)).get_dec
     b = Decode(client.recv(1024)).get_dec
