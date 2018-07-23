@@ -44,11 +44,12 @@ class Window(QtWidgets.QWidget):
         # print('Авторизация')
         login = self.ui.textEditLogin.toPlainText()
         if login != "":
+            self.ui.pushButLogin.setDisabled(True)
             self.ui.textEditLogin.setDisabled(True)
             self.ui.textEdit.setDisabled(False)
             self.ui.textEdit_2.setDisabled(False)
             self.ui.pushButton.setDisabled(False)
-            self.ui.listView_2.setDisabled(False)
+            # self.ui.listView_2.setDisabled(False)
 
     def on_clicked_pushButton(self, i):
         print('Отправить в текст')
