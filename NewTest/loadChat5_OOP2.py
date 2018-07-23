@@ -12,13 +12,13 @@ class Thread1(QtCore.QThread):
         QtCore.QThread.__init__(self, parent)
 
     def run(self):
-        # self.exec_()  # Запускаем цикл обработки сигналов
-        self.s1.emit('Привет, я поток 1')
+        self.exec_()  # Запускаем цикл обработки сигналов
+        # self.s1.emit('Привет, я поток 1')
 
-    # def on_change(self):
-    #     self.s1.emit('Привет, я поток 1')
-    #     # self.sleep(1)
-    #     # window.ui.textEdit.append('Привет, я поток 1')
+    def on_change(self):
+        self.s1.emit('Привет, я поток 1')
+        # self.sleep(1)
+        # window.ui.textEdit.append('Привет, я поток 1')
 
 
 class Window(QtWidgets.QWidget):
@@ -36,7 +36,7 @@ class Window(QtWidgets.QWidget):
         self.ui.thread1.start()
 
         self.ui.pushButLogin.clicked.connect(self.on_clicked_pushButLogin)
-        self.ui.pushButton.clicked.connect(self.ui.thread1.run)
+        self.ui.pushButton.clicked.connect(self.ui.thread1.on_change)
 
         self.ui.thread1.s1.connect(self.on_clicked_pushButton, QtCore.Qt.QueuedConnection)
 
