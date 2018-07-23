@@ -12,9 +12,13 @@ class Thread1(QtCore.QThread):
         QtCore.QThread.__init__(self, parent)
 
     def run(self):
+        # self.exec_()  # Запускаем цикл обработки сигналов
         self.s1.emit('Привет, я поток 1')
-        # self.sleep(1)
-        # window.ui.textEdit.append('Привет, я поток 1')
+
+    # def on_change(self):
+    #     self.s1.emit('Привет, я поток 1')
+    #     # self.sleep(1)
+    #     # window.ui.textEdit.append('Привет, я поток 1')
 
 
 class Window(QtWidgets.QWidget):
