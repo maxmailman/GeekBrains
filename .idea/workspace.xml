@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df8765e-8bfe-4d87-a230-76a4df0d88c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/NewTest/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewTest/loadChat6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewTest/loadChat5_OOP2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewTest/loadChat5_OOP2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewTest/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,26 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NewTest/test.py">
+      <file leaf-file-name="QThreadQueueQMutex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueueQMutex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loadChat5_OOP2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NewTest/loadChat5_OOP2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -44,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -59,10 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pyqt5HomeWork.py" />
-        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork2.py" />
-        <option value="$PROJECT_DIR$/Python2/05_PyQt5_HomeWork/pqt5HomeWork22.py" />
-        <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/01_ServerTime.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/.idea/02_ClientTime.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/02_ClientTime.py" />
         <option value="$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/03_splitter.py" />
@@ -105,18 +90,23 @@
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadObmen.py" />
         <option value="$PROJECT_DIR$/Python2/01_HomeWork/server.py" />
         <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadCicl.py" />
-        <option value="$PROJECT_DIR$/NewTest/loadChat5_OOP2.py" />
         <option value="$PROJECT_DIR$/NewTest/superclient.py" />
         <option value="$PROJECT_DIR$/NewTest/superserver.py" />
         <option value="$PROJECT_DIR$/NewTest/test.py" />
         <option value="$PROJECT_DIR$/NewTest/server.py" />
+        <option value="$PROJECT_DIR$/NewTest/loadChat6.py" />
+        <option value="$PROJECT_DIR$/NewTest/ExampleThreads.py" />
+        <option value="$PROJECT_DIR$/NewTest/loadChat5_OOP2.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueue.py" />
+        <option value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueueQMutex.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="3372" />
-    <option name="height" value="1047" />
+    <option name="x" value="28" />
+    <option name="y" value="77" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,10 +138,17 @@
               <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
               <item name="Python2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GeekBrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeekBrains" type="462c0819:PsiDirectoryNode" />
+              <item name="Python2" type="462c0819:PsiDirectoryNode" />
+              <item name="05_PyQt5_Prohorenko" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="QThreadCicl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.QThreadQueueQMutex">
+    <configuration name="ExampleThreads" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NewTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,67 +196,67 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/QThreadCicl.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/ExampleThreads.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NewTest" />
+    <configuration name="QThreadObmen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="05_PyQt5_Prohorenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadObmen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="superclient" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NewTest" />
+    <configuration name="QThreadQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="05_PyQt5_Prohorenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/superclient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="superserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NewTest" />
+    <configuration name="QThreadQueueQMutex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="05_PyQt5_Prohorenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NewTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/superserver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueueQMutex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="loadChat5_OOP2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NewTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,26 +268,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewTest/loadChat5_OOP2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.QThreadCicl" />
-      <item itemvalue="Python.superclient" />
-      <item itemvalue="Python.superserver" />
-      <item itemvalue="Python.server" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ExampleThreads" />
+      <item itemvalue="Python.loadChat5_OOP2" />
+      <item itemvalue="Python.QThreadObmen" />
+      <item itemvalue="Python.QThreadQueue" />
+      <item itemvalue="Python.QThreadQueueQMutex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.server" />
-        <item itemvalue="Python.superclient" />
-        <item itemvalue="Python.QThreadCicl" />
-        <item itemvalue="Python.superserver" />
+        <item itemvalue="Python.QThreadQueueQMutex" />
+        <item itemvalue="Python.QThreadQueue" />
+        <item itemvalue="Python.QThreadObmen" />
+        <item itemvalue="Python.ExampleThreads" />
+        <item itemvalue="Python.loadChat5_OOP2" />
       </list>
     </recent_temporary>
   </component>
@@ -545,31 +541,54 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25104168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25074404" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.3969957" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32837406" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8901042" visible="true" weight="0.21997875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8901042" visible="true" weight="0.28382838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6848958" weight="0.32837406" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.39638683" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.3960396" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Data View" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32837406" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8901042" weight="0.21997875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25074404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.39638683" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6848958" weight="0.32837406" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.3969957" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -591,22 +610,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/06_TestSplitterUnittest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/pytest.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/colorama/ansitowin32.py" />
-    <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/09_FixturesExtended.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyProject/Python2/1.Работа с сетью, сокеты. Тестирование кода/08_Ficstures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -802,38 +805,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/clien2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadObmen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="32" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadCicl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/superserver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -844,16 +819,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/superclient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTest/superclient.py" />
     <entry file="file://$PROJECT_DIR$/NewTest/loadChat5_OOP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -861,23 +827,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/QThreadCicl.py">
+    <entry file="file://$PROJECT_DIR$/NewTest/QThreadCicl.py" />
+    <entry file="file://$PROJECT_DIR$/NewTest/superserver.py" />
+    <entry file="file://$PROJECT_DIR$/NewTest/superclient2.py" />
+    <entry file="file://$PROJECT_DIR$/NewTest/clien2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/loadChat5_OOP2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="524">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -888,13 +844,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewTest/test.py">
+    <entry file="file://$PROJECT_DIR$/NewTest/loadChat6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="61" column="18" lean-forward="true" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        <state relative-caret-position="85">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTest/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTest/loadChat5_OOP2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding>
+            <marker date="1532930457839" expanded="false" signature="154:569" ph="..." />
+            <marker date="1532930457839" expanded="false" signature="572:828" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadObmen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewTest/ExampleThreads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1253">
+          <caret line="151" lean-forward="true" selection-start-line="151" selection-end-line="151" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#6068#6156#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python2/05_PyQt5_Prohorenko/QThreadQueueQMutex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

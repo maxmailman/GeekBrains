@@ -1,5 +1,4 @@
 from PyQt5 import QtWidgets, QtCore
-from PyQt5.QtCore import QObject, QThread, pyqtSignal, pyqtSlot
 import ui_chat
 import sys
 import socket
@@ -17,34 +16,9 @@ class Thread1(QtCore.QThread):
         # self.s1.emit('Привет, я поток 1')
 
     def on_change(self):
-        for step in range(100):
-            time.sleep(0.1)
-            self.s1.emit('Привет, я поток 1')
-        self.s
-
-
-class Worker(QObject):
-    sig_msg = pyqtSignal(str)
-
-    # def __init__(self):
-    #     super().__init__()
-
-    @pyqtSlot()
-    def work(self):
-        for step in range(100):
-            time.sleep(0.1)
-            self.sig_msg.emit('step ' + str(step))
-
-
-class MyThread(QThread):
-    def __init__(self):
-        QThread.__init__(self)
-
-    def __del__(self):
-        self.wait()
-
-    def run(self):
-        print('Старт потока')
+        self.s1.emit('Привет, я поток 1')
+        # self.sleep(1)
+        # window.ui.textEdit.append('Привет, я поток 1')
 
 
 class Window(QtWidgets.QWidget):
@@ -58,16 +32,13 @@ class Window(QtWidgets.QWidget):
         self.ui.pushButton.setDisabled(True)
         self.ui.listView_2.setDisabled(True)
 
-        self.myThread = MyThread()
-        self.myThread.start()
-
-        # self.ui.thread1 = Thread1()
-        # self.ui.thread1.start()
+        self.ui.thread1 = Thread1()
+        self.ui.thread1.start()
 
         self.ui.pushButLogin.clicked.connect(self.on_clicked_pushButLogin)
-        # self.ui.pushButton.clicked.connect(self.ui.thread1.on_change)
+        self.ui.pushButton.clicked.connect(self.ui.thread1.on_change)
 
-        # self.ui.thread1.s1.connect(self.on_clicked_pushButton, QtCore.Qt.QueuedConnection)
+        self.ui.thread1.s1.connect(self.on_clicked_pushButton, QtCore.Qt.QueuedConnection)
 
     def on_clicked_pushButLogin(self):
         # print('Авторизация')
@@ -79,7 +50,6 @@ class Window(QtWidgets.QWidget):
             self.ui.textEdit_2.setDisabled(False)
             self.ui.pushButton.setDisabled(False)
             # self.ui.listView_2.setDisabled(False)
-            self.myThread.isRunning()
 
     def on_clicked_pushButton(self, i):
         print('Отправить в текст')
